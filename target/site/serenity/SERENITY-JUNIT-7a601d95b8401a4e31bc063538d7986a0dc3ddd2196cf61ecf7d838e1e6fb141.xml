@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Se realiza una compra online" skipped="0" tests="1" time="28.31" timestamp="2020-07-12 07:46:59"><testcase name="validar compra exitosa"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.prueba.certificacion.task.CompraProducto.addPhone(CompraProducto.java:32)&#13;
+com.prueba.certificacion.task.CompraProducto.performAs(CompraProducto.java:28)&#13;
+com.prueba.certificacion.stepdefinitions.CompraOnlineStepDefinitions.realizoCompraExitosaDeTecnologia(CompraOnlineStepDefinitions.java:46)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
